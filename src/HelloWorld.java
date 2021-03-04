@@ -17,6 +17,10 @@ public class HelloWorld {
 		System.out.println("HelloWorld");
 		System.out.println("trest6");
 		
+		System.out.println("HelloWorld");
+		System.out.println("trest7");
+		
+		
 
 	}
 
