@@ -10,6 +10,10 @@ public class HelloWorld {
 		System.out.println("Test project");
 		
 
+		System.out.println("test3");
+		System.out.println("Test project");
+		
+
 	}
 
 }
