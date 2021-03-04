@@ -14,6 +14,10 @@ public class HelloWorld {
 		System.out.println("Test project");
 		
 
+		System.out.println("HelloWorld");
+		System.out.println("trest6");
+		
+
 	}
 
 }
